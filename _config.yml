@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: JAVA 
 SEOTitle: 渣辉 | BY Blog
 header-img: img/post-bg-desk.jpg
@@ -12,7 +12,7 @@ github_repo: "https://github.com/openhui/openhui.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "路在脚下"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
