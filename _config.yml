@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true   #是否开启Gitalk评论
-  clientID: 3575caeb4068a175b857                            #生成的clientID
-  clientSecret: 68be15c1b948d5199236533ddfe018cdd2306cab    #生成的clientSecret
+  clientID: c9e687ad0ec5706fffa1                            #生成的clientID
+  clientSecret: 413a2e8a7c01e9fb17eed73eb6494347c52aecff   #生成的clientSecret
   repo: openhui.github.io    #仓库名称
   owner: openhui    #github用户名
   admin: openhui
