@@ -4,7 +4,7 @@ SEOTitle: 渣辉 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: openhui@aliyun.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 渣辉, qiubaiying, JAVA, iOS, Android, framework"
+keyword: "BY, BY Blog, 渣辉,  JAVA, 数字电路, Verilog,Git"
 url: "http://openhui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/openhui/openhui.github.io.git" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: true
-weibo_username:     HueiDD
+weibo_username:     HH_95
 zhihu_username:     
 github_username:    openhui
 facebook_username:  
